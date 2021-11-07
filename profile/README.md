@@ -1,3 +1,4 @@
 ## 👋 › Hi there!
+#### Just a simple chat. The future, is now! 🚀
 
-### More info comming soon... 👀
+## 👀 › A simple chat app (In development) created by young Brazilians.
